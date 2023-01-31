@@ -1,12 +1,3 @@
 # DataScience 
 
-* Python
-* SQL
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Crisp-dm
-* Linux
-* Streamlit
-* Scikit Learn
+* Python * SQL * Numpy * Pandas * Matplotlib * Seaborn * Crisp-dm * Linux * Streamlit * Scikit Learn

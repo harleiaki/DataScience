@@ -1,10 +1,10 @@
-#DataScience 
+# DataScience 
 
 Ferramentas:
 
 * Python * SQL * Numpy * Pandas * Matplotlib * Seaborn * Crisp-dm * Linux * Streamlit * Scikit Learn
 
-#Habilidades:
+# Habilidades:
 
 - Domínio do Python
 - Linguagem SQL
